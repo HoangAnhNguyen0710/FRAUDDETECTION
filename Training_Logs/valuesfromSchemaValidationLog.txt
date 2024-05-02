@@ -112,3 +112,63 @@
 
 2021-05-26/20:00:14		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
 
+2024-04-30/23:02:13		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:02:28		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:02:48		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:02:53		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:02:59		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:03:46		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:03:49		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:04:27		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:04:28		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:04:58		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:05:05		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:05:20		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:05:51		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:06:01		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:07:38		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:07:42		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:07:43		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:08:21		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:08:55		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:11:32		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:11:37		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:11:42		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:12:29		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:12:41		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:13:06		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:14:03		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:14:40		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:15:13		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:15:40		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+
+2024-04-30/23:23:10		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 38
+

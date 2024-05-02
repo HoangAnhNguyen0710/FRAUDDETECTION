@@ -27,3 +27,26 @@
 2021-05-26/19:56:36		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
 2021-05-26/19:58:17		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
 2021-05-26/20:00:14		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2024-04-30/23:03:46		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/Prediction_Database'
+2024-04-30/23:03:49		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/Prediction_Database'
+2024-04-30/23:04:27		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/Prediction_Database'
+2024-04-30/23:04:28		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/Prediction_Database'
+2024-04-30/23:04:58		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/Prediction_Database'
+2024-04-30/23:05:05		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/Prediction_Database'
+2024-04-30/23:05:20		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/Prediction_Database'
+2024-04-30/23:06:01		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2024-04-30/23:06:01		Invalid File Name!! File moved to Bad Raw Folder :: insuranceFraud_Dataset.csv
+2024-04-30/23:07:38		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2024-04-30/23:07:38		Invalid File Name!! File moved to Bad Raw Folder :: insuranceFraud_Dataset.csv
+2024-04-30/23:07:43		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2024-04-30/23:07:43		Invalid File Name!! File moved to Bad Raw Folder :: insuranceFraud_Dataset.csv
+2024-04-30/23:08:21		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2024-04-30/23:08:21		Invalid File Name!! File moved to Bad Raw Folder :: insuranceFraud_Dataset.csv
+2024-04-30/23:08:55		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2024-04-30/23:08:55		Invalid File Name!! File moved to Bad Raw Folder :: insuranceFraud_Dataset.csv
+2024-04-30/23:11:42		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2024-04-30/23:11:42		Invalid File Name!! File moved to Bad Raw Folder :: insuranceFraud_Dataset.csv
+2024-04-30/23:12:29		Invalid File Name!! File moved to Bad Raw Folder :: insuranceFraud_Dataset.csv
+2024-04-30/23:13:06		Invalid File Name!! File moved to Bad Raw Folder :: insuranceFraud_Dataset.csv
+2024-04-30/23:15:13		Invalid File Name!! File moved to Bad Raw Folder :: insuranceFraud_Dataset.csv
+2024-04-30/23:23:10		Invalid File Name!! File moved to Bad Raw Folder :: insuranceFraud_Dataset.csv

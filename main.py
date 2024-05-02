@@ -26,21 +26,21 @@ def home():
 @cross_origin()
 def predictRouteClient():
     try:
-        if request.json is not None:
-            path = request.json['filepath']
+        # if request.json is not None:
+        #     path = request.form.get("filepath")
+        #     print(path)
+        #     pred_val = pred_validation(path) #object initialization
 
-            pred_val = pred_validation(path) #object initialization
+        #     pred_val.prediction_validation() #calling the prediction_validation function
 
-            pred_val.prediction_validation() #calling the prediction_validation function
+        #     pred = prediction(path) #object initialization
 
-            pred = prediction(path) #object initialization
+        #     # predicting for dataset present in database
+        #     path = pred.predictionFromModel()
+        #     return Response("Prediction File created at %s!!!" % path)
 
-            # predicting for dataset present in database
-            path = pred.predictionFromModel()
-            return Response("Prediction File created at %s!!!" % path)
-
-        elif request.form is not None:
-            path = request.form['filepath']
+        if request.form is not None:
+            path = request.form.get('filepath')
 
             pred_val = pred_validation(path) #object initialization
 
